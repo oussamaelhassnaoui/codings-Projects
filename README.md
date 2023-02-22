@@ -11,5 +11,4 @@ copy the content of bin folder into C:\Users\"your divace name"\AppData\Local\Pr
 
 *************************************how to run******************************************************
 
-decompress RAR 
-double click on the main fil and past youtube link and sset the configuration that you need 
+Decompress RAR double click on the main file and paste the youtube link and set the configuration that you need  
